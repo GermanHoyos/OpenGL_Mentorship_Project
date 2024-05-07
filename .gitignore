@@ -1,8 +1,0 @@
-# Ignore everything except specific directories
-/*
-cutable.exe
-
-
-# Unignore the src directory
-!src/
-!myHeaders/
